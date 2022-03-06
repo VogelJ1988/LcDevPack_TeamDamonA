@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0029: Cannot implicitly convert type 'string' to 'System.Windows.Forms.TextBox'
+dotnet_diagnostic.CS0029.severity = error

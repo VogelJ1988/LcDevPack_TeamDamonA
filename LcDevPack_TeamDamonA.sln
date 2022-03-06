@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LcDevPack_TeamDamonA", "LcDevPack_TeamDamonA.csproj", "{E2538B4B-18E5-4B67-BD56-3A1A50186E81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2DF006B4-73D9-40FF-A9D9-92D7EC024355}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2538B4B-18E5-4B67-BD56-3A1A50186E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2538B4B-18E5-4B67-BD56-3A1A50186E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2538B4B-18E5-4B67-BD56-3A1A50186E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2538B4B-18E5-4B67-BD56-3A1A50186E81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E08970E6-3141-41C0-899F-7CA200BA2BF2}
+	EndGlobalSection
+EndGlobal
